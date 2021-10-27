@@ -24,9 +24,9 @@
   "author": "dooboolab <dooboolab@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wecount-dev/eslint-config/issues"
+    "url": "https://github.com/wecount-dev/eslint-config-svelte/issues"
   },
-  "homepage": "https://github.com/wecount-dev/eslint-config#readme",
+  "homepage": "https://github.com/wecount-dev/eslint-config-svelte#readme",
   "peerDependencies": {
     "eslint": "*"
   },
