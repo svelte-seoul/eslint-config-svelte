@@ -1,0 +1,36 @@
+{
+  "name": "@dooboo/eslint-config-svelte",
+  "version": "0.0.1",
+  "description": "Svelte eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.1.0",
+    "@typescript-eslint/parser": "^5.1.0",
+    "eslint-plugin-svelte3": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecount-dev/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "svelte",
+    "config",
+    "theme"
+  ],
+  "author": "dooboolab <dooboolab@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wecount-dev/eslint-config/issues"
+  },
+  "homepage": "https://github.com/wecount-dev/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
