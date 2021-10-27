@@ -8,8 +8,6 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 2020,
     sourceType: "module",
-    tsconfigRootDir: __dirname,
-    project: ["./tsconfig.json"],
     extraFileExtensions: [".svelte"],
   },
   env: {
