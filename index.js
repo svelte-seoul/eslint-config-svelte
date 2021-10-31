@@ -63,7 +63,7 @@ module.exports = {
     indent: "off",
     "@typescript-eslint/interface-name-prefix": 0,
     "no-console": "warn",
-    curly: ["error", "multi"],
+    curly: ["error", "all"],
     "max-len": [
       "error",
       {
